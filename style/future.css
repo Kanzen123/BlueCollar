@@ -1,0 +1,122 @@
+.future {
+    padding: 140px;
+}
+
+.future__pos {
+    display: flex;
+    gap: 50px;
+}
+
+.future__item {
+    padding: 11px 0;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.future__item-hr {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.future__item-hr-pos {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.future__item-hr-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #F4F4F4;
+    padding: 0 20px;
+    max-width: 249px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.future__item-hr-title2 {
+    font-family: "MR", sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 59px;
+    color: #1C2752;
+}
+
+.future__item-hr-pos2 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.future__item-hr-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #7E7E7E;
+}
+
+.future__item-hr-text2 {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #7E7E7E;
+}
+
+.future__item-fr {
+    display: flex;
+    gap: 40px;
+    max-width: 575px;
+    width: 100%;
+    height: 240px;
+}
+
+.future__item-fr-logo {
+    background: #F4F4F4;
+    max-width: 198px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 16px;
+    margin: 10px 0;
+}
+
+.future__item-fr-logo-text {
+    font-family: "MR", sans-serif;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 88px;
+    color: #FFB342;
+}
+
+.future__item-fr-logo-text2 {
+    font-family: "MR", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    max-width: 112px;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+.future__item-fr-list {
+    margin: 28px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.future__item-fr-list p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #7E7E7E;
+}
